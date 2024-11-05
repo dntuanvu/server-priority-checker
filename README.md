@@ -16,7 +16,7 @@ This project is a Node.js application built with TypeScript. It finds the online
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/server-priority-checker.git
+   git clone https://github.com/dntuanvu/server-priority-checker.git
    cd server-priority-checker
 
 2. **Install dependencies**:
